@@ -1,1 +1,20 @@
-# challenge-amigo-secreto .md
+# 🎁 Challenge Amigo Secreto
+
+Este projeto foi desenvolvido como parte do **Challenge do Bootcamp Oracle Next Education + Alura**.  
+Trata-se de uma aplicação web que permite cadastrar participantes e realizar o sorteio de **Amigo Secreto** de forma automática.
+
+---
+
+## 🚀 Funcionalidades
+- Adicionar nomes de participantes.
+- Listar participantes já cadastrados.
+- Realizar o sorteio do amigo secreto.
+- Exibir o resultado do sorteio de forma simples e clara.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** para a estrutura da página.
+- **CSS3** para estilização.
+- **JavaScript (ES6)** para a lógica da aplicação.
+
